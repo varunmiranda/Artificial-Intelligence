@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # nrooks.py : Solve the N-Rooks, N-Queens and N-Knights problem!
-# D. Crandall, 2016
-# Updated by Zehua Zhang, 2017
-# Updated by Varun Miranda, 2018
+# Based on the Prof. David Crandall's starter code
+# Created by Varun Miranda, 2018
 
 # a0.py : Solve the N-Rooks, N-Queens and N-Knights problem!
 
