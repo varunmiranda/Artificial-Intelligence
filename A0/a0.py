@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # nrooks.py : Solve the N-Rooks, N-Queens and N-Knights problem!
 # Based on the Prof. David Crandall's starter code
 # Created by Varun Miranda, 2018
