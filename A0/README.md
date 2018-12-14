@@ -1,4 +1,4 @@
-# Elements-of-AI-N-Rooks-N-Queens-N-Knights
+# N Rooks, N Queens and N Knights
 
 This program aims to place N rooks, N queens or N knights in an N * N chess board, such that no two pieces can attack each other. As there are multiple ways to arrange these pieces, the program has an additional functionality to place blocks at certain positions in the chessboard such that a piece cannot be placed there. The program will still find a board configuration that will generate N pieces that don't attack each other.
 
